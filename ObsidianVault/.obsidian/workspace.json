@@ -8,35 +8,77 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "aff3e1919b5dfc5d",
+=======
+            "id": "c487fb910e4740be",
+>>>>>>> 9977f49807872d549c1bdda33e0625d47aac16cd
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Part C.md",
+=======
+                "file": "Part A.md",
+>>>>>>> 9977f49807872d549c1bdda33e0625d47aac16cd
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Part C"
             }
           },
           {
             "id": "c48bd146d280f8d9",
+=======
+              "title": "Part A"
+            }
+          },
+          {
+            "id": "300db87b51192776",
+>>>>>>> 9977f49807872d549c1bdda33e0625d47aac16cd
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Part F.md",
+=======
+                "file": "Personal Gabe Notes.md",
+>>>>>>> 9977f49807872d549c1bdda33e0625d47aac16cd
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Part F"
             }
           }
         ],
         "currentTab": 1
+=======
+              "title": "Personal Gabe Notes"
+            }
+          },
+          {
+            "id": "2876c65735a93b56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draft Writeup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Draft Writeup"
+            }
+          }
+        ],
+        "currentTab": 2
+>>>>>>> 9977f49807872d549c1bdda33e0625d47aac16cd
       }
     ],
     "direction": "vertical"
@@ -93,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "4d5b21d24d505bb5",
@@ -184,6 +226,7 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< HEAD
   "active": "c48bd146d280f8d9",
   "lastOpenFiles": [
     "Part D.md",
@@ -208,6 +251,28 @@
     "Project Overall.md",
     "PartBGraphV1.jpg",
     "ErrorPlot.jpg",
+=======
+  "active": "2876c65735a93b56",
+  "lastOpenFiles": [
+    "PartAPlot2.jpg",
+    "PartAPlot1.jpg",
+    "Part F.md",
+    "Part C.md",
+    "Draft Writeup.md",
+    "ErrorPlot.jpg",
+    "Project Overall.md",
+    "Part B.md",
+    "Part A Condensed for Writeup.md",
+    "Personal Gabe Notes.md",
+    "Part A.md",
+    "PartCScreenshot.png",
+    "PartCPlot3.png",
+    "PartCPlot2.png",
+    "PartCPlot1.png",
+    "PartBGraphV1.jpg",
+    "How to use LaTeX Plugin.md",
+    "PartCPlot1 1.png",
+>>>>>>> 9977f49807872d549c1bdda33e0625d47aac16cd
     "create a link.md"
   ]
 }
